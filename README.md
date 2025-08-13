@@ -1,2 +1,4 @@
 # TallerJavaTVHitssIlseRueda
-Ejercicios vistos en las sesiones del taller
+Ejercicios realizados en las sesiones del taller<br>
+Estos ejercicios son para practicar los temas vistos en cada sesión
+
